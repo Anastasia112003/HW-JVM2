@@ -1,11 +1,12 @@
 Результат выполнения программы:
-20:59:02: Executing ':JvmExperience.main()'...
 
+20:59:02: Executing ':JvmExperience.main()'...
 > Task :compileJava UP-TO-DATE
 > Task :processResources NO-SOURCE
 > Task :classes UP-TO-DATE
-
 > Task :JvmExperience.main()
+
+
 Please open 'ru.netology.JvmExperience' in VisualVm
 20:59:33.631296300: loading io.vertx
 
